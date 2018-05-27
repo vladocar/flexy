@@ -12,3 +12,7 @@ Flexy is minimal CSS framework made with Flex
 [Demo 1 - Katana](https://vladocar.github.io/flexy/Katana.html)
 
 [Demo 2 - Quotes](https://vladocar.github.io/flexy/Quotes.html)
+
+## License
+
+This project is licensed under the MIT License
