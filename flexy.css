@@ -1,0 +1,29 @@
+:root {--m: 15px}
+
+* {box-sizing: border-box;}
+
+.main{display: flex; flex-flow: row wrap;  width: 80%; margin: 0 auto}
+
+.dp10,.dp12,.dp17,.dp20,.dp25,.dp33,.dp40,.dp50,.dp60,.dp67,.dp75,.dp80,.dp83,.dp100,.fluid{margin:0 0 0 var(--m)}
+
+.dp10{width:calc(10% - var(--m))}
+.dp12{width:calc(12.5% - var(--m))}
+.dp17{width:calc(16.6667% - var(--m))}
+.dp20{width:calc(20% - var(--m))}
+.dp25{width:calc(25% - var(--m))}
+.dp33{width:calc(33.3334% - var(--m))}
+.dp40{width:calc(40% - var(--m))}
+.dp50{width:calc(50% - var(--m))}
+.dp60{width:calc(60% - var(--m))}
+.dp67{width:calc(66.6667% - var(--m))}
+.dp75{width:calc(75% - var(--m))}
+.dp80{width:calc(80% - var(--m))}
+.dp83{width:calc(83.3334% - var(--m))}
+.dp100{width:calc(100% - var(--m))}
+
+.fluid{flex:2}
+.clear{width: 100%}
+.nomargin{display: flex; flex-flow: row wrap; padding:0 !important; margin:0 !important}
+
+@media (max-width: 600px) {
+  .dp10,.dp12,.dp17,.dp20,.dp25,.dp33,.dp40,.dp50,.dp60,.dp67,.dp75,.dp80,.dp83,.dp100,.fluid {width:100%; margin:0}}

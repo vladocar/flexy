@@ -1,0 +1,27 @@
+* {box-sizing: border-box;}
+
+.main{display: flex; display: -ms-flexbox; -ms-flex-flow: row wrap; flex-flow: row wrap;  width: 94%; margin: 0 auto}
+
+.dp10,.dp12,.dp17,.dp20,.dp25,.dp33,.dp40,.dp50,.dp60,.dp67,.dp75,.dp80,.dp83,.dp100,.fluid{margin:0 0 0 15px}
+
+.dp10{width:calc(10% - 15px)}
+.dp12{width:calc(12.5% - 15px)}
+.dp17{width:calc(16.6667% - 15px)}
+.dp20{width:calc(20% - 15px)}
+.dp25{width:calc(25% - 15px)}
+.dp33{width:calc(33.3334% - 15px)}
+.dp40{width:calc(40% - 15px)}
+.dp50{width:calc(50% - 15px)}
+.dp60{width:calc(60% - 15px)}
+.dp67{width:calc(66.6667% - 15px)}
+.dp75{width:calc(75% - 15px)}
+.dp80{width:calc(80% - 15px)}
+.dp83{width:calc(83.3334% - 15px)}
+.dp100{width:calc(100% - 15px)}
+
+.fluid{-ms-flex: 2;flex:2}
+.clear{width: 100%}
+.nomargin{display: flex; flex-flow: row wrap; -ms-flex-flow: row wrap; padding:0 !important; margin:0 !important}
+
+@media (max-width: 600px) {
+  .dp10,.dp12,.dp17,.dp20,.dp25,.dp33,.dp40,.dp50,.dp60,.dp67,.dp75,.dp80,.dp83,.dp100,.fluid {width:100%; margin:0}}
