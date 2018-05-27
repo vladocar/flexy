@@ -1,3 +1,5 @@
+<p align="center"><img src="images/screencapture-flexy.png" /></p>
+
 # Flexy
 Flexy is minimal CSS framework made with Flex
 
