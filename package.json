@@ -1,0 +1,30 @@
+{
+  "name": "@vladocar/flexy",
+  "version": "1.0.0",
+  "description": "Flexy is minimal CSS framework made with Flex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladocar/flexy.git"
+  },
+  "keywords": [
+    "css",
+    "css3",
+    "flex",
+    "flexbox",
+    "flexbox-grid",
+    "flex-layout",
+    "css-framework",
+    "html-css",
+    "html"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladocar/flexy/issues"
+  },
+  "homepage": "https://github.com/vladocar/flexy#readme"
+}
