@@ -1,4 +1,4 @@
-<p align="center"><img src="images/screencapture-flexy.png" /></p>
+<p align="center"><a href="https://vladocar.github.io/flexy/"><img src="images/screencapture-flexy.png" /></a></p>
 
 # Flexy
 Flexy is minimal CSS framework made with Flex
