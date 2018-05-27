@@ -37,6 +37,9 @@ Flexy is minimal CSS framework made with Flex
 <div class="fluid">Fluid</div>
 <div class="clear"></div>
 ```
+### Browser Support
+
+Use flexy-old.css for IE 10/11
 
 ### License
 
