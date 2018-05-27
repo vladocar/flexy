@@ -37,6 +37,14 @@ Flexy is minimal CSS framework made with Flex
 <div class="fluid">Fluid</div>
 <div class="clear"></div>
 ```
+## Install
+
+You can simply download the library or:
+
+```
+$ npm i @vladocar/flexy
+```
+
 ### Browser Support
 
 Use flexy-old.css for IE 10/11
