@@ -6,6 +6,24 @@
 
 .dp10,.dp12,.dp17,.dp20,.dp25,.dp33,.dp40,.dp50,.dp60,.dp67,.dp75,.dp80,.dp83,.dp100,.fluid{margin:0 0 0 var(--m)}
 
+[dir="rtl"] .dp10,
+[dir="rtl"] .dp12,
+[dir="rtl"] .dp17,
+[dir="rtl"] .dp20,
+[dir="rtl"] .dp25,
+[dir="rtl"] .dp33,
+[dir="rtl"] .dp40,
+[dir="rtl"] .dp50,
+[dir="rtl"] .dp60,
+[dir="rtl"] .dp67,
+[dir="rtl"] .dp75,
+[dir="rtl"] .dp80,
+[dir="rtl"] .dp83,
+[dir="rtl"] .dp100,
+[dir="rtl"] .fluid {
+  margin:0 var(--m) 0 0
+}
+
 .dp10{width:calc(10% - var(--m))}
 .dp12{width:calc(12.5% - var(--m))}
 .dp17{width:calc(16.6667% - var(--m))}
