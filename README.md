@@ -15,6 +15,9 @@ Flexy is minimal CSS framework made with Flex
 
 [Demo 2 - Quotes](https://vladocar.github.io/flexy/Quotes.html)
 
+[Demo 3 - RTL](https://vladocar.github.io/flexy/flexy-rtl.html)
+
+
 
 ### Code Demo
 
