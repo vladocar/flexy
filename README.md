@@ -22,9 +22,9 @@ Flexy is minimal CSS framework made with Flex
 <div class="dp50">50%</div>
 <div class="dp50">50%</div>
 
-<div class="dp33">33,3%</div>
-<div class="dp33">33,3%</div>
-<div class="dp33">33,3%</div>
+<div class="dp33">33.3%</div>
+<div class="dp33">33.3%</div>
+<div class="dp33">33.3%</div>
 
 <div class="dp25">25%</div>
 <div class="fluid">Fluid</div>
